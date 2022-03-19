@@ -1,2 +1,3 @@
 # Jeu-de-Bataille
-Jeu de bataille python
+
+Jeu de Cartes bataille qui utilise de la poo
